@@ -1,5 +1,5 @@
 const initialization = () => {
-  const baseUrl = "https://raw.githubusercontent.com/cometrocks/widgets/main";
+  const baseUrl = "https://raw.githack.com/cometrocks/widgets/main";
   const script = document.createElement("script");
 
   const scriptSrc = window.__CR_PROD__
